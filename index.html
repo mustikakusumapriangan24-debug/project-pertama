@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project Pertama</title>
+</head>
+<body>
+  <h1>Hello GitHub & Vercel</h1>
+</body>
+</html>
